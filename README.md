@@ -62,7 +62,8 @@ Please make sure you have the following software and hardware:
 •	Myo SDKs
 •	The required libraries for the project such as the ones below
 Once all those are setup then all that is required is to git clone the repository, open the project in an IDE such as eclipse and run the runner class.
-Resources
+
+# Resources
 [1] Myo Scripting Orientation and Gestures Part 2
 [Myo Scripting Orientation and Gestures Part Two: Wait for it…]
 [2] Myo Scripting Orientation and Gestures Part 3
