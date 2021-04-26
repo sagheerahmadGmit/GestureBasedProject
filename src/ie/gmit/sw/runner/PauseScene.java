@@ -20,11 +20,11 @@ public class PauseScene extends JPanel {
 		Graphics g2 = (Graphics2D) g;
 
 		// Draw the wallpaper
-		g2.setColor(Color.BLACK);
+		g2.setColor(Color.ORANGE);
 		g2.fillRect(0, 0, Constants.WINDOW_WIDTH, Constants.WINDOW_HEIGHT);
 
 		// Green line drawing at the bottom of the screen
-		g2.setColor(Color.GREEN);
+		g2.setColor(Color.BLACK);
 		g2.fillRect(30, 530, 535, 5);
 
 		g.setFont(textFont);
