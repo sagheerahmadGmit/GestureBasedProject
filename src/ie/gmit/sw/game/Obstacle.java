@@ -83,9 +83,9 @@ public class Obstacle extends Entity {
 		for (int i = 0; i < ROW_NUM; i++) {
 			for (int j = 0; j < COLUMN_NUM; j++) {
 				if (obstacles[i][j] == true) {
-					g2.setColor(Color.GREEN);
+					g2.setColor(Color.GRAY);
 				} else {
-					g2.setColor(Color.BLACK);
+					g2.setColor(Color.ORANGE);
 				}
 				g2.fillRect(this.xPos + Constants.BRICK_DIMENSIONS * j, this.yPos + Constants.BRICK_DIMENSIONS * i,
 						Constants.BRICK_DIMENSIONS, Constants.BRICK_DIMENSIONS);
