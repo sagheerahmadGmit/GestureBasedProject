@@ -43,7 +43,8 @@ Alien, AlienGroup, AlienShot: These classes are responsible for drawing the alie
 Entity: This class contains the getters and setters for the player ship.
 Obstacle, Saucer: The saucer class paints the red saucer that flies above the game and is worth the most points (100 points). It flies from the right to the left. While the obstacle class draws the four shields just above the player so the player can hide and protect itself. 
 Player, PlayerShot: These classes are responsible for creating and drawing the player and the player bullet that will be used to kill the player.
-Conclusion
+
+# Conclusion
 
 I am happy overall with the outcome and I feel like I achieved what I wanted. There were a couple of challenges with using the Myo such as:
 -	The Myo armband is very buggy and did not work a few times.
@@ -53,7 +54,7 @@ I am happy overall with the outcome and I feel like I achieved what I wanted. Th
 Overall, using the Myo and voice commands was a great learning experience. The Myo was not was not too difficult to setup and implement into a java game. I found a couple resources that helped me with this part and made it easier to setup. I believe that this module has given me great insight to where gesture-based technology is headed and what it could look like in the future. I feel there are a lot of things that were wrong about the Myo armband such as the fact that it is very tiring and puts a lot of strain on the user’s arm. It is also difficult to use Myo with other platforms as each platform requires different packages and SDK files.
 There are also an excel sheet for tests for this application in the documentsAndTests folder of the project.
 
-How to run
+# How to run
 Please make sure you have the following software and hardware:
 •	Myo Armband
 •	Myo Connect software 
